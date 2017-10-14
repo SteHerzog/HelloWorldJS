@@ -1,7 +1,6 @@
- //   document.write('Hallo Welt');
- newFunction();
+newFunction();
 
- function newFunction() {
-     //   document.write('Hallo Welt');
-     alert('Hallo Welt');
- }
+function newFunction() {
+
+    alert('Hallo Welt');
+}
