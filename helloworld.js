@@ -1,2 +1,2 @@
-    document.write('Hallo Welt');
-    alert('Hallo Welt');
+ //   document.write('Hallo Welt');
+ alert('Hallo Welt');
